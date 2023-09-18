@@ -1,0 +1,14 @@
+
+1) revisiting python basics and advanced concepts
+2) enjoying the process
+3) fastbook lectures and code, doing the assignment 
+4) limiting the resources to learn 
+5) teaching properly and explaining slowly
+
+understand and implement similar problems to educative-coderust course :- spend 25 minutes in problem solving
+                                                                          spend 25 minutes in approaching any machine learning problem book
+                                                                          
+
+12 pomodoros in learning fastai, pytorch, python and implementing in kaggle competitions. Joining discussions without fail. 
+
+
